@@ -4,31 +4,26 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** C, C++, Python .etc
-- **Tools:** Git, vscode, clion, pycharm, anaconda, cursor, docker, ps, pr .etc
-- **Databases:** MySQL, MongoDB .etc
+- **Languages:** C, C++, Python, etc.
+- **Tools:** Git, vscode, clion, pycharm, anaconda, cursor, docker, ps, pr, etc.
+- **Databases:** MySQL, MongoDB, etc.
 
 ## 🌱 Current Projects
 
-- [ShapeZ](link-to-your-project) - A brief description of what this project does and what technologies it uses.
-- [Genshin](link-to-your-project) - A brief description of what this project does and what technologies it uses.
+- [ShapeZ](https://github.com/oysterhyd/shapeZ) - 南京大学高级程序设计课程期末项目——基于C++和Qt库复刻异型工厂
+- [Genshin](https://github.com/oysterhyd/Genshin-Game-Project) - 南京大学CPL课程期末项目——基于C语言与SDL2图形库复刻原神中的七圣召唤
   
 ## 📫 How to Reach Me
 
 Feel free to connect with me!
 
-- [LinkedIn](your-linkedin-url)
-- [Twitter](your-twitter-url)
-- [Email](your-email)
-
-## 📄 Resume
-
-You can view my resume [here](link-to-your-resume).
+- Email1: 231880435@smail.nju.edu.cn
+- Email2: 728028946@qq.com
 
 ## 🚀 Fun Facts
 
-- I love [a personal interest or hobby, e.g., hiking, gaming, etc.].
-- I’m currently learning [something new, e.g., a language, a framework, etc.].
+- I love gaming, playing soccer, singing, etc.
+- I’m currently learning Deep Learning and Machine Learning.
 - I enjoy contributing to open-source projects!
 
 Thanks for stopping by! Feel free to check out my repositories and let me know if you have any questions.
