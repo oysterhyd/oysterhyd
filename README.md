@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 ## 🔧 Technologies & Tools
 
 - **Languages:** C, C++, Python, etc.
-- **Tools:** Git, vscode, clion, pycharm, anaconda, cursor, docker, ps, pr, etc.
-- **Databases:** MySQL, MongoDB, etc.
+- **Tools:** Git, vscode, anaconda, docker, ps, pr, codex, langchain, rag, mcp, etc.
+- **Databases:** MySQL, etc.
 
 ## 🌱 Current Projects
 
@@ -23,7 +23,7 @@ Feel free to connect with me!
 ## 🚀 Fun Facts
 
 - I love gaming, playing soccer, singing, etc.
-- I’m currently learning Deep Learning and Machine Learning.
+- I’m currently learning Deep Learning and Multi-Class Unsupervised Anomaly Detection.
 - I enjoy contributing to open-source projects!
 
 Thanks for stopping by! Feel free to check out my repositories and let me know if you have any questions.
