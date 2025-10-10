@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 
 - [ShapeZ](https://github.com/oysterhyd/shapeZ) - 南京大学高级程序设计课程期末项目——基于C++和Qt库复刻异型工厂
 - [Genshin](https://github.com/oysterhyd/Genshin-Game-Project) - 南京大学CPL课程期末项目——基于C语言与SDL2图形库复刻原神中的七圣召唤
+- [oyster-ASR-Scorer](https://github.com/oysterhyd/oyster-ASR-Scorer) - ASR打分工具
   
 ## 📫 How to Reach Me
 
