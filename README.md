@@ -1,4 +1,4 @@
-# Hi there, I'm 胡云迪(Hu Yun-Di) 👋
+# Hi there, I'm oyster 👋
 
 Welcome to my GitHub profile! I'm a passionate student with a strong interest in computer science. I love working on projects that challenge my skills and allow me to learn new things.
 
