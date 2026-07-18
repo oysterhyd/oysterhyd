@@ -14,7 +14,11 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 - [Genshin](https://github.com/oysterhyd/Genshin-Game-Project) - 南京大学CPL课程期末项目——基于C语言与SDL2图形库复刻原神中的七圣召唤
 - [oyster-ASR-Scorer](https://github.com/oysterhyd/oyster-ASR-Scorer) - ASR打分工具
 - [futa-night-walk](https://github.com/oysterhyd/futa-night-walk) - 符塔夜行
-  
+
+## Recent research
+https://github.com/KomorebiWerts/GLLS
+- [GLLS](https://github.com/KomorebiWerts/GLLS) - Global Logic and Local Search: Dual-Stream Multimodal In-Context Learning for Verifiable Industrial Anomaly Detection(ECCV 2026)
+
 ## 📫 How to Reach Me
 
 Feel free to connect with me!
