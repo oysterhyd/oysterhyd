@@ -1,86 +1,122 @@
 # Hi there, I'm oyster 👋
 
-I'm an AI researcher and software engineer with interests in **Large Language Models (LLMs)**, **Multimodal Learning**, and **Industrial Anomaly Detection**.
+I'm an AI researcher and software engineer from **Nanjing University**.
 
-Currently, I'm pursuing my studies at **Nanjing University**, where I enjoy combining research with open-source development.
+My research focuses on **Large Language Models (LLMs)**, **Multimodal Learning**, **Vision-Language Models (VLMs)**, **AI Agents**, and **Industrial AI**. I enjoy building research prototypes, developing open-source tools, and translating cutting-edge ideas into practical systems.
 
 ---
 
-## 🔬 Research
+## 🔬 Research Interests
 
-### Global Logic and Local Search: Dual-Stream Multimodal In-Context Learning for Verifiable Industrial Anomaly Detection
+* Large Language Models (LLMs)
+* Vision-Language Models (VLMs)
+* Multimodal In-Context Learning
+* AI Agents & Agentic Workflow
+* Industrial AI & Anomaly Detection
+
+---
+
+## 📚 Publications
+
+### **Global Logic and Local Search: Dual-Stream Multimodal In-Context Learning for Verifiable Industrial Anomaly Detection**
 
 **ECCV 2026**
 
-* 📄 Accepted by **ECCV 2026**
-* 🤖 Focuses on **Industrial Anomaly Detection**, **Multimodal In-Context Learning**, and **Vision-Language Models**
-* 💡 Proposes **Global Logic and Local Search (GLLS)**, a dual-stream framework that improves both reasoning capability and localization performance for verifiable anomaly detection.
-* 💻 Code: https://github.com/KomorebiWerts/GLLS
+> Dual-stream multimodal in-context learning framework for industrial anomaly detection, combining global logical reasoning with local visual search to improve anomaly localization and explainability.
 
-> Research interests: Large Language Models · Multimodal Learning · Vision-Language Models · Industrial Anomaly Detection · AI Agents
+* 📄 Conference: **ECCV 2026**
+* 💻 Code: https://github.com/KomorebiWerts/GLLS
+* 🏷️ Keywords: Multimodal Learning · Industrial Anomlay Detection · Vision-Language Models · In-Context Learning
+
+> *More publications coming soon...*
 
 ---
 
 ## 🚀 Featured Projects
 
-### ShapeZ
+### 🏭 ShapeZ
 
-> A C++/Qt recreation of the game *shapez*.
+Reimplementation of **shapez** using **C++** and **Qt**.
 
-* 🛠️ C++ / Qt
-* 🎮 Final project for Advanced Programming, Nanjing University
-* 🔗 https://github.com/oysterhyd/shapeZ
+* Advanced Programming Final Project @ Nanjing University
+* Tech Stack: C++, Qt
+* https://github.com/oysterhyd/shapeZ
 
-### Genshin-Game-Project
+---
 
-> Recreation of Genius Invokation TCG from Genshin Impact.
+### ⚔️ Genshin-Game-Project
 
-* 🛠️ C / SDL2
-* 🎮 Final project for CPL, Nanjing University
-* 🔗 https://github.com/oysterhyd/Genshin-Game-Project
+Reimplementation of **Genius Invokation TCG** using **C** and **SDL2**.
 
-### oyster-ASR-Scorer
+* CPL Final Project @ Nanjing University
+* Tech Stack: C, SDL2
+* https://github.com/oysterhyd/Genshin-Game-Project
 
-ASR evaluation toolkit.
+---
 
-* 🔗 https://github.com/oysterhyd/oyster-ASR-Scorer
+### 🎙️ oyster-ASR-Scorer
 
-### futa-night-walk
+Automatic Speech Recognition evaluation toolkit.
 
-A personal game project.
+* Python
+* https://github.com/oysterhyd/oyster-ASR-Scorer
 
-* 🔗 https://github.com/oysterhyd/futa-night-walk
+---
+
+### 🌃 futa-night-walk
+
+Personal indie game project.
+
+* https://github.com/oysterhyd/futa-night-walk
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
+### Languages
 
-`Python` · `C++` · `C`
+* python
+* c++
 
-**AI**
+### AI & Machine Learning
 
-`PyTorch` · `Transformers` · `LangChain` · `RAG` · `MCP` · `OpenAI API`
+* PyTorch
+* Hugging Face Transformers
+* OpenAI API
+* LangChain
+* RAG
+* MCP
+* Agent Frameworks
 
-**Development**
+### Development
 
-`Git` · `Docker` · `Linux` · `VS Code` · `Claude Code` · `Codex`
+* Git
+* Docker
+* Linux
+* VS Code
+* Claude Code
+* Codex
 
-**Database**
+### Database
 
-`MySQL`
+* MySQL
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Currently Working On
 
 * Large Language Models
-* AI Agents
-* Multimodal Reasoning
+* Multimodal Agents
 * Industrial Vision
-* Retrieval-Augmented Generation (RAG)
-* Agentic Workflow & MCP
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oysterhyd&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oysterhyd&layout=compact&hide_border=true" height="160"/>
+</p>
 
 ---
 
@@ -91,9 +127,13 @@ A personal game project.
 
 ---
 
-## ⚽ Beyond Coding
+## ⚡ Fun Facts
 
-* 🎮 Gaming
-* ⚽ Soccer
-* 🎤 Singing
-* 🌍 Open-source
+* 🎮 Gamer
+* ⚽ Soccer lover
+* 🎵 Music enthusiast
+* ❤️ Open Source Contributor
+
+---
+
+> *"The world is your oyster."*
