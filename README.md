@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 - [futa-night-walk](https://github.com/oysterhyd/futa-night-walk) - 符塔夜行
 
 ## Recent research
-https://github.com/KomorebiWerts/GLLS
 - [GLLS](https://github.com/KomorebiWerts/GLLS) - Global Logic and Local Search: Dual-Stream Multimodal In-Context Learning for Verifiable Industrial Anomaly Detection(ECCV 2026)
 
 ## 📫 How to Reach Me
