@@ -114,10 +114,15 @@ Personal indie game project.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oysterhyd&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oysterhyd&layout=compact&hide_border=true" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=oysterhyd&show_icons=true&hide_border=true"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oysterhyd&layout=compact&hide_border=true"
+    height="160"
+  />
 </p>
-
 ---
 
 ## 📫 Contact
