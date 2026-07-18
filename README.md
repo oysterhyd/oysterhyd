@@ -1,35 +1,99 @@
 # Hi there, I'm oyster 👋
 
-Welcome to my GitHub profile! I'm a passionate student with a strong interest in computer science. I love working on projects that challenge my skills and allow me to learn new things.
+I'm an AI researcher and software engineer with interests in **Large Language Models (LLMs)**, **Multimodal Learning**, and **Industrial Anomaly Detection**.
 
-## 🔧 Technologies & Tools
+Currently, I'm pursuing my studies at **Nanjing University**, where I enjoy combining research with open-source development.
 
-- **Languages:** C, C++, Python, etc.
-- **Tools:** Git, vscode, anaconda, docker, ps, pr, codex, claude code, skills, langchain, rag, mcp, etc.
-- **Databases:** MySQL, etc.
+---
 
-## 🌱 Current Projects
+## 🔬 Research
 
-- [ShapeZ](https://github.com/oysterhyd/shapeZ) - 南京大学高级程序设计课程期末项目——基于C++和Qt库复刻异型工厂
-- [Genshin](https://github.com/oysterhyd/Genshin-Game-Project) - 南京大学CPL课程期末项目——基于C语言与SDL2图形库复刻原神中的七圣召唤
-- [oyster-ASR-Scorer](https://github.com/oysterhyd/oyster-ASR-Scorer) - ASR打分工具
-- [futa-night-walk](https://github.com/oysterhyd/futa-night-walk) - 符塔夜行
+### Global Logic and Local Search: Dual-Stream Multimodal In-Context Learning for Verifiable Industrial Anomaly Detection
 
-## Recent research
-- [GLLS](https://github.com/KomorebiWerts/GLLS) - Global Logic and Local Search: Dual-Stream Multimodal In-Context Learning for Verifiable Industrial Anomaly Detection(ECCV 2026)
+**ECCV 2026**
 
-## 📫 How to Reach Me
+* 📄 Accepted by **ECCV 2026**
+* 🤖 Focuses on **Industrial Anomaly Detection**, **Multimodal In-Context Learning**, and **Vision-Language Models**
+* 💡 Proposes **Global Logic and Local Search (GLLS)**, a dual-stream framework that improves both reasoning capability and localization performance for verifiable anomaly detection.
+* 💻 Code: https://github.com/KomorebiWerts/GLLS
 
-Feel free to connect with me!
+> Research interests: Large Language Models · Multimodal Learning · Vision-Language Models · Industrial Anomaly Detection · AI Agents
 
-- Email1: 231880435@smail.nju.edu.cn
-- Email2: 728028946@qq.com
+---
 
-## 🚀 Fun Facts
+## 🚀 Featured Projects
 
-- I love gaming, playing soccer, singing, etc.
-- I’m currently learning Deep Learning and LLM.
-- I enjoy contributing to open-source projects!
+### ShapeZ
 
-Thanks for stopping by! Feel free to check out my repositories and let me know if you have any questions.
+> A C++/Qt recreation of the game *shapez*.
 
+* 🛠️ C++ / Qt
+* 🎮 Final project for Advanced Programming, Nanjing University
+* 🔗 https://github.com/oysterhyd/shapeZ
+
+### Genshin-Game-Project
+
+> Recreation of Genius Invokation TCG from Genshin Impact.
+
+* 🛠️ C / SDL2
+* 🎮 Final project for CPL, Nanjing University
+* 🔗 https://github.com/oysterhyd/Genshin-Game-Project
+
+### oyster-ASR-Scorer
+
+ASR evaluation toolkit.
+
+* 🔗 https://github.com/oysterhyd/oyster-ASR-Scorer
+
+### futa-night-walk
+
+A personal game project.
+
+* 🔗 https://github.com/oysterhyd/futa-night-walk
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+`Python` · `C++` · `C`
+
+**AI**
+
+`PyTorch` · `Transformers` · `LangChain` · `RAG` · `MCP` · `OpenAI API`
+
+**Development**
+
+`Git` · `Docker` · `Linux` · `VS Code` · `Claude Code` · `Codex`
+
+**Database**
+
+`MySQL`
+
+---
+
+## 🌱 Currently Exploring
+
+* Large Language Models
+* AI Agents
+* Multimodal Reasoning
+* Industrial Vision
+* Retrieval-Augmented Generation (RAG)
+* Agentic Workflow & MCP
+
+---
+
+## 📫 Contact
+
+* 📧 [231880435@smail.nju.edu.cn](mailto:231880435@smail.nju.edu.cn)
+* 📧 [728028946@qq.com](mailto:728028946@qq.com)
+
+---
+
+## ⚽ Beyond Coding
+
+* 🎮 Gaming
+* ⚽ Soccer
+* 🎤 Singing
+* 🌍 Open-source
